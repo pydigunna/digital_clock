@@ -4,16 +4,17 @@ background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 background-attachment: fixed;
-margin: 0px;
+margin:0px;
 }
 #clock-container{
     display:flex;
     justify-content:flex-start;
-    padding-left:200px;
+    padding-left:80px;
     align-items: center;
     height:100vh;
 }
 #clock{
+    font-family: Georgia, 'Times New Roman', Times, serif;
    font-size:5rem;
    font-family: bold; 
    text-align: center;
